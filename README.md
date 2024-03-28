@@ -18,6 +18,8 @@ Columns:
 Rows:
   There are 79 rows of data. A row of data for each LGA.
 
+Location data of Healthscope hospitals extracted from the site locator page on Healthscope's official website : https://healthscopeassist.com.au/siteLocator.asp
+
 ## POWER BI REPORT:   "Healthscope.pbix"
 
 ### HOME PAGE:
