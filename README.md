@@ -18,3 +18,17 @@ Columns:
 Rows:
   There are 79 rows of data. A row of data for each LGA.
 
+## POWER BI REPORT:
+
+### HOME PAGE:
+  
+  1. Explains what code 1 and coe 2 types of calls are.
+  2. Displays averages across Vicroria.
+  3. Displays a map which can be explored.
+
+### CODE 1 Page:
+
+
+
+
+
